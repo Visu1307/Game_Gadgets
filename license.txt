@@ -1,0 +1,58 @@
+|=====================================================|
+|GAME GADGETS ECOMMERCE WEBSITE LICENSE AGREEMENT |
+|=====================================================|
+This License Agreement Project-5 is entered into between Game Gadgets, and the end-user.
+This Agreement outlines the terms and conditions under which the User may use the Game Gadgets ecommerce website for B.C.A Semester-5 Project developed by Vishwas Bhatt.
+-------------------------
+1. LICENSE GRANT
+-------------------------
+Subject to the terms and conditions of this Agreement, the Company grants the User a non-exclusive, non-transferable, limited license to access and use the Website for personal and non-commercial purposes.
+-------------------------
+2. RESTRICTIONS
+-------------------------
+The User shall not, without the express written consent of the Company:
+
+a. Reproduce, distribute, modify, create derivative works of, publicly display, publicly perform, republish, download, store, or transmit any of the materials on the Website.   
+b. Use the Website for any commercial purpose or for any purpose that is unlawful or prohibited by this Agreement.   
+c. Reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of the Website.   
+d. Remove or alter any copyright, trademark, or other proprietary notices on the Website.
+------------------------------------
+3. INTELLECTUAL PROPERTY
+------------------------------------
+The Website, including but not limited to text, graphics, logos, images, software, and other materials, is protected by copyright, trademark, and other intellectual property laws.
+The User acknowledges and agrees that all rights, title, and interest in and to the Website, including any updates, modifications, and improvements, belong to the Company and/or the Developer.
+---------------------
+4. DISCLAIMER
+---------------------
+The Website is provided "as is" and "as available" without any warranties of any kind, whether express or implied.
+The Company and the Developer make no representations or warranties regarding the accuracy, reliability, or completeness of the Website's content or functionality.
+-------------------------------------
+5. LIMITATION OF LIABILITY
+-------------------------------------
+The Company and the Developer shall not be liable for any direct, indirect, incidental, special, consequential, or punitive damages arising out of or in connection with the use of the Website.
+--------------------------
+6. GOVERNING LAW
+--------------------------
+This Agreement shall be governed by and construed in accordance with the laws of [Jurisdiction], without regard to its conflict of laws principles.
+------------------------------
+7. ENTIRE AGREEMENT
+------------------------------
+This Agreement constitutes the entire agreement between the User, the Company, and the Developer concerning the subject matter hereof.
+By accessing and using the Website, the User agrees to be bound by the terms and conditions of this Agreement.
+If the User does not agree to these terms, they must not use the Website.
+For questions or inquiries, please contact +91 91065 33108.
+-----------------
+21/08/2023
+-----------------
+Company:
+Game Gadgets,
+S.V.E.T College,
+Saru Section Road, Opp. Modi School
+-------------------------------------------------
+Developer:
+Vishwas Bhatt
+Pl. 143, St. No. 3, Royal Pushpa Park,
+Bh. Krishna School, Khodiyar Colony,
+Jamnagar - 361 006
+Gujarat, INDIA 
+-------------------------------------------------
